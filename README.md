@@ -12,7 +12,7 @@ Soy un estudiante universitario interesado por la tecnologia y con ganas de apre
 ## 🔗 Contact Me
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-cucho-7a66602b9/)
 [![twitter](https://img.shields.io/badge/CORREO-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luis.cucho719@gmail.com)
-[![facebook](https://img.shields.io/badge/CORREO-blue?style=for-the-badge&logo=facebook&logoColor=white)](mailto:luis.cucho719@gmail.com)
+[![facebook](https://img.shields.io/badge/CORREO-blue?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/larturo.cuchogarcia)
 ## Tecnologies
 
 ![Python](https://img.shields.io/badge/Python!-gray?logo=python)
